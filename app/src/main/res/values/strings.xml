@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="posts">Posts</string>
+    <string name="follwers">Followers</string>
+    <string name="following">Follwing</string>
+
+</resources>
